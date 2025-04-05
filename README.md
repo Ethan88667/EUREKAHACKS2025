@@ -1,2 +1,2 @@
 # EUREKAHACKS2025
-Project I made for Eureka Hacks. ML playing snake game
+Project I made for Eureka Hacks. ML playing snake game. BRO IDK WHY THIS THING WOULDN'T WORK WITHOUT AERIAL I TRIED USING THE ONE INCORPORATED IN PYTHON BUT IT JUST DON'T WORK😭😭😭
