@@ -1,2 +1,2 @@
 # EUREKAHACKS2025
-Project
+Project I made for Eureka Hacks. ML playing snake game
